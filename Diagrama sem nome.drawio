@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-09-08T14:16:29.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="MXVkyV5epBfhKQbLuClH" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-08T14:34:17.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="-P0IXVF1w325CXmiKbpW" version="20.3.0" type="github">
   <diagram id="jPm1nvgj7f6Z-0WGkyZc" name="Página-1">
-    <mxGraphModel dx="780" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vNrRS6thHRrVCA1Uu7zE-1" value="Inciar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vNrRS6thHRrVCA1Uu7zE-1" value="Inciar" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2yN4gSWF-qygbHFKCN_9-1" value="var - nome&lt;br&gt;número&lt;br&gt;partido&lt;br&gt;foto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
